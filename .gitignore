@@ -1,0 +1,36 @@
+# NinjaTrader specific
+*.dll
+*.pdb
+*.exe
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NinjaTrader workspace files
+*.nws
+
+# Backup files
+*.bak
+*.backup
